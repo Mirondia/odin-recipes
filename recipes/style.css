@@ -1,0 +1,28 @@
+
+.steps, 
+.ingredients,
+.pages {
+       font-size: 30px;
+       background-color: rgb(211, 211, 218);
+       border: 0.5em;
+       margin: 10px;
+       padding: auto;
+      
+    
+}
+
+#title  {
+        font-size: 20px;
+        border: 0.5em;
+        margin: 10px;
+        padding: auto;
+        color:blue;
+    }
+
+#top{
+        font-size: 40px;
+        border: 0.5em;
+        margin: 10px;
+        padding: auto;
+        
+    }
